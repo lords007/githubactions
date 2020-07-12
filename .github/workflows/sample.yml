@@ -12,5 +12,3 @@ jobs:
         run: |
            node -v
            npm -v
-      - name: Codecov
-        uses: codecov/codecov-action@v1.0.10
