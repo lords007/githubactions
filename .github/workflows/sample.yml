@@ -1,4 +1,4 @@
-name: Shell Commands
+name: PipeLineStatus
 
 on: [push]
 
@@ -27,3 +27,4 @@ jobs:
       - name: Directory Bash
         run: pwd
         shell: bash
+
